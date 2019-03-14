@@ -1,3 +1,4 @@
 def divide(a, b):
-    result = a ** b
+    ''' division calculation '''
+    result = a / b
     return result
